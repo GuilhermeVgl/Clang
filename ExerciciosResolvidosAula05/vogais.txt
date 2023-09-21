@@ -1,0 +1,7 @@
+aeiou
+abcdefghijklmnopqrstuvwxyz
+aAáÁàÀãÃâÂ
+eEéÉèÈêÊ
+iIíÍìÌîÎ
+oOóÓòÒõÕôÔöÖ
+uUúÚùÙûÛüÜ
